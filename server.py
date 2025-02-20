@@ -1,7 +1,7 @@
 from flask import Flask, request, jsonify
 import requests
 
-app = Flask(__name__)
+app = Flask(__Send Message Auto__)
 
 # Ganti dengan App ID & Secret kamu
 APP_ID = "cli_a7394424f1bb102f"
